@@ -1,0 +1,7 @@
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\UILayer.exe
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\UILayer.dll
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\UILayer.deps.json
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\UILayer.runtimeconfig.json
+E:\FEb24Jenkins\coreproj\jenscriptprop1\UILayer\obj\Release\net6.0\PubTmp\Out\UILayer.pdb
